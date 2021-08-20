@@ -4,5 +4,6 @@
 
         "configurations": [],
         "compounds": []
-    }
+    },
+    "liveServer.settings.port": 5501
 }
