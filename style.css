@@ -118,7 +118,7 @@ nav{
     transition: all 0.3s ease;
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:400px){
     body{
         overflow-x: hidden;
     }
